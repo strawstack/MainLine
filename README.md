@@ -23,3 +23,8 @@
 This is a screenshot from Wikipedia after clicking the bookmarklet. A `load` and `run` button is shown allowing the user to `load` a main function and run this function on the current page.
 
 ![](./screenshot.png)
+
+# Future Development
+
+- [ ] Add any number of functions to the file (in addition to main) and give the user a list of buttons allowing them to trigger any function from the file.
+      - The idea is they could have one file for each site that presents them with a list of buttons that they regularly use.
