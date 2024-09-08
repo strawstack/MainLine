@@ -1,0 +1,12 @@
+{
+  "name": "mainline",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "`Load` and `Run` buttons to execute code on any site.",
+  "main": "bookmarklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
